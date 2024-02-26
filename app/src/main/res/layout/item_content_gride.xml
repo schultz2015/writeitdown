@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginBottom="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="350dp"
+    android:minHeight= "?android:attr/listPreferredItemHeight"
+    >
+    <View
+        android:id="@+id/itemfront"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/topradius"
+        />
+    <View
+        android:id="@+id/base"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_centerHorizontal="true"
+        android:background="@color/purple_700"
+        android:layout_below="@id/itemfront"
+        />
+    <TextView
+        android:id="@+id/iteminvis"
+        android:layout_width="16dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_below="@+id/maintext"
+        android:layout_toEndOf="@+id/time"
+        android:maxLines="1"
+        android:text="00011"
+        android:visibility="invisible"
+
+        />
+
+    <TextView
+        android:id="@+id/maintitle"
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="20dp"
+        android:layout_below="@+id/base"
+        android:maxLines="2"
+        android:padding="6dp"
+        android:hint="标题"
+        android:text="Nahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+        android:textStyle="bold"
+        android:textSize="45dp"
+        android:ellipsize="end"/>
+
+    <TextView
+        android:id="@+id/maintext"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@+id/maintitle"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="8dp"
+        android:maxLines="2"
+        android:hint=" "
+        android:text="Nahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+        android:textSize="28dp"
+        android:ellipsize="end"
+        />
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+        android:layout_below="@+id/maintext"
+        android:maxLines="1"
+        android:padding="18dp"
+        android:text="2020-02-19"
+        android:textSize="18sp"
+        />
+
+
+</RelativeLayout>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gravy">#616161</color>
+    <color name="red">#9C0000</color>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--    db.execSQL("INSERT INTO imgsource VALUES(17,'https://img0.baidu.com/it/u=4162443464,2854908495&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=500')");-->
+<!--    db.execSQL("INSERT INTO imgsource VALUES(18,'https://img0.baidu.com/it/u=1617940732,1879989235&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500')");-->
+<!--    db.execSQL("INSERT INTO imgsource VALUES(19,'https://img1.baidu.com/it/u=28231220,1635955213&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500')");-->
+<!--    db.execSQL("INSERT INTO imgsource VALUES(20,'https://img2.baidu.com/it/u=112973264,946746692&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=751')");-->
+<!--    db.execSQL("INSERT INTO imgsource VALUES(21,'https://img0.baidu.com/it/u=4232417770,3896613440&fm=253&fmt=auto&app=138&f=JPEG?w=333&h=500')");-->
+<!--    db.execSQL("INSERT INTO imgsource VALUES(22,'https://img0.baidu.com/it/u=952658203,670463048&fm=253&fmt=auto&app=138&f=JPEG?w=754&h=500')");-->
+<!--    db.execSQL("INSERT INTO imgsource VALUES(23,'https://img0.baidu.com/it/u=2667794183,364470683&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=594')");-->
+<!--    db.execSQL("INSERT INTO imgsource VALUES(24,'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fsafe-img.xhscdn.com%2Fbw1%2Fdd344a4b-8244-4fc2-8049-2a6d57eadea3%3FimageView2%2F2%2Fw%2F1080%2Fformat%2Fjpg&refer=http%3A%2F%2Fsafe-img.xhscdn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1686492790&t=94eed57550949ee92365f5e610c8b643')");-->
+<!--    db.execSQL("INSERT INTO imgsource VALUES(25,'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fsafe-img.xhscdn.com%2Fbw1%2F47b90f99-fce2-47cb-8c1b-1babb490f41b%3FimageView2%2F2%2Fw%2F1080%2Fformat%2Fjpg&refer=http%3A%2F%2Fsafe-img.xhscdn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1686492790&t=9fe85fd88193b8562161d814445fc23a')");-->
+<!--    db.execSQL("INSERT INTO imgsource VALUES(26,'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fsafe-img.xhscdn.com%2Fbw1%2F7d038949-c9da-4266-83cb-cb8253d038c9%3FimageView2%2F2%2Fw%2F1080%2Fformat%2Fjpg&refer=http%3A%2F%2Fsafe-img.xhscdn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1686492790&t=7dfae90479d646a1497155ffaebd589d')");-->
+<!--    db.execSQL("INSERT INTO imgsource VALUES(27,'https://gd-hbimg.huaban.com/b0dfcb080557a7929cb3badeafdd2a0a3fcd2e272101d-FKyQJs_fw658')");-->
+<!--    db.execSQL("INSERT INTO imgsource VALUES(28,'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202004%2F05%2F20200405174900_24xcr.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1686492967&t=d41b4f1539b42e547d4737ab85ecbce3')");-->
+<!--    db.execSQL("INSERT INTO imgsource VALUES(29,'https://img2.baidu.com/it/u=2902086618,677756321&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=749')");-->
+<!--    db.execSQL("INSERT INTO imgsource VALUES(30,'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202005%2F08%2F20200508090311_LAVFS.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1686493013&t=4369ba2378aa67249ef962b3021823bd')");-->
