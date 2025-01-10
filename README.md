@@ -1,2 +1,2 @@
 # writeitdown
-备忘录、todolist
+memo and todolist for practice
